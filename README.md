@@ -7,7 +7,7 @@ A CLI tool to remap CPU profiles from Minecraft Bedrock using source maps.
 Install the package globally:
 
 ```bash
-npm install -g profile-sourcemap
+npm install -g git+https://github.com/stirante/profile-sourcemap.git
 ```
 
 ## Usage
