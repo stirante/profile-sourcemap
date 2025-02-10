@@ -1,0 +1,32 @@
+{
+  "name": "profile-sourcemap",
+  "version": "0.0.1",
+  "description": "CLI tool to remap CPU profiles using source maps",
+  "main": "profile-sourcemap.js",
+  "bin": {
+    "profile-sourcemap": "./profile-sourcemap.js"
+  },
+  "dependencies": {
+    "source-map": "^0.7.4"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stirante/profile-sourcemap.git"
+  },
+  "files": [
+    "profile-sourcemap.js"
+  ],
+  "keywords": [
+    "minecraft",
+    "bedrock",
+    "cpuprofile",
+    "sourcemap",
+    "cli",
+    "profile"
+  ],
+  "author": "stirante",
+  "license": "MIT"
+}
